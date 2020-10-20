@@ -1,0 +1,23 @@
+{
+  "name": "cypress-balckbox-testing",
+  "version": "1.0.0",
+  "description": "Testing website ngx cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mayyngm/Cypress-BalckBox-Testing.git"
+  },
+  "author": "Mayang Muria Cahyaningsih",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mayyngm/Cypress-BalckBox-Testing/issues"
+  },
+  "homepage": "https://github.com/mayyngm/Cypress-BalckBox-Testing#readme",
+  "dependencies": {
+    "cypress": "^5.4.0"
+  }
+}
