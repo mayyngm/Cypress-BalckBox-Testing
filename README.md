@@ -1,4 +1,4 @@
 # Cypress-BlackBox-Testing
 
-Testing website, menggunakan metode black Box Testing
--myg
+1. FormTesting-ngx.js => tugas blackbox
+2. 
